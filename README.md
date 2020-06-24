@@ -1,12 +1,19 @@
 # SaberService
 Boom's open source saber system, programmed in lua if you would like a custom version. Please DM me at: shadow1#6244
 
-Join my server here: https://discord.com/invite/6B3s74H 
+[join my server](https://discord.com/invite/6B3s74H)
 
-Check out my game website: https://sites.google.com/view/booms-tsooc
+[Check out my game website](https://sites.google.com/view/booms-tsooc)
 
 **PROJECT**
+
 [Github respritory](https://github.com/BoomTheLuaLord/SaberService)
+
+[Github site](https://boomthelualord.github.io/SaberService/)
+
+[Roblox example game](https://www.roblox.com/games/4814734535/Sith-Dueling-Temple-on-Mustafar)
+
+
 
 **Building** 
 
@@ -15,4 +22,4 @@ Check out my game website: https://sites.google.com/view/booms-tsooc
 
 **LICENSING** 
 
-*This is under the MIT License*
+*This respritory is under the* [MIT](https://github.com/BoomTheLuaLord/SaberService/blob/master/LICENSE) *License*
