@@ -23,3 +23,7 @@ Boom's open source saber system, programmed in lua if you would like a custom ve
 **LICENSING** 
 
 *This respritory is under the* [MIT](https://github.com/BoomTheLuaLord/SaberService/blob/master/LICENSE) *License*
+
+**CREATORS NOTE:**
+
+Thank you for downloading my new open source project!
