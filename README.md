@@ -6,8 +6,10 @@ Check out my game website: https://sites.google.com/view/booms-tsooc
 
 
 **Building** 
+
 *Programmed in LUA*
 *Built in roblox studio*
 
 **LICENSING** 
+
 *This is under the MIT License*
