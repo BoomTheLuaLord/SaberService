@@ -13,6 +13,7 @@ Boom's open source saber system, programmed in lua if you would like a custom ve
 
 [Roblox example game](https://www.roblox.com/games/4814734535/Sith-Dueling-Temple-on-Mustafar)
 
+[Download](https://github.com/BoomTheLuaLord/SaberService/archive/master.zip)
 
 
 **Building** 
